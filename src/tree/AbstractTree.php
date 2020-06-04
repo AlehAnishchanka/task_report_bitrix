@@ -1,6 +1,7 @@
 <?php
 
-namespace task_report;
+namespace Tree;
+
 abstract class AbstractTree
 {
     protected $tree;

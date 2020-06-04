@@ -1,8 +1,7 @@
 <?php
 
 
-namespace task_report;
-
+namespace Tree;
 
 class DepartmentTree extends AbstractTree
 {

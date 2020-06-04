@@ -1,8 +1,6 @@
 <?php
 
-
-namespace task_report;
-
+namespace Tree;
 
 class Department implements ContainerContent
 {

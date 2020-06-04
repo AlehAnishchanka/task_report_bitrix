@@ -1,6 +1,6 @@
 <?php
 
-namespace task_report;
+namespace Tree;
 interface ContainerContent
 {
     public function getId();
