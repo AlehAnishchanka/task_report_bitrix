@@ -1,14 +1,14 @@
-This is my old project.
-I made it 2 years ago.
-May be code is not clean here, but I solved an interesting task here.
-Input data 2 tables.
--------------- first --------------------------------
-ID      NAME
-1       First department
-2       Second department
-.....
-N      N-department
--------------------------------------------------------
+This is my old project.\
+I made it 2 years ago.\
+May be code is not clean here, but I solved an interesting task here.\
+Input data 2 tables.\
+-------------- first --------------------------------\
+ID      NAME\
+1       First department\
+2       Second department\
+.....\
+N      N-department\
+-------------------------------------------------------\
 ----------- second ------------------------------
 ID_DEP               ID_MASTER
 1                            NULL
